@@ -1,5 +1,8 @@
 # PaymentApp
 
+![image (1)](https://github.com/tala-skafi/PaymentDetailsProject/assets/65433042/e8f82dc3-f992-47f7-a4b2-2469aff5b23a)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.6.
 
 ## Development server
